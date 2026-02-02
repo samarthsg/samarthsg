@@ -6,3 +6,5 @@ Focused on building strong fundamentals in computer science, with an interest in
 Currently working with C, data structures, and operating systems.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthsg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samarthsg&layout=compact&langs_count=5&theme=tokyonight)
