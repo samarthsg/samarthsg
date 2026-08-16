@@ -5,6 +5,6 @@ MCA student at C-DAC Noida.
 Focused on building strong fundamentals in computer science, with an interest in systems-level programming and low-level concepts.  
 Currently working with C, data structures, and operating systems.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=samarthsg&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Samarth's GitHub stats](https://github-stats-extended.vercel.app/api?username=samarthsg)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=samarthsg&layout=compact&langs_count=5&theme=tokyonight)
+![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs?username=samarthsg&layout=compact&langs_count=5&theme=tokyonight)
